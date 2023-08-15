@@ -13,6 +13,9 @@ This is Technical round task by Realtime Innovations
 
 
 # App Images
-![Home Screen](https://github.com/Abood2284/realtime_job_task/blob/main/lib/assets/images/1.png=250x250)
+<img src="https://github.com/Abood2284/realtime_job_task/blob/main/lib/assets/images/1.png" width="200" height="400" />
+<img src="https://github.com/Abood2284/realtime_job_task/blob/main/lib/assets/images/1.png" width="200" height="400" />
+<img src="https://github.com/Abood2284/realtime_job_task/blob/main/lib/assets/images/1.png" width="200" height="400" />
+<img src="https://github.com/Abood2284/realtime_job_task/blob/main/lib/assets/images/1.png" width="200" height="400" />
 
 
