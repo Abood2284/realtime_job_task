@@ -6,8 +6,8 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:intl/intl.dart';
 import 'package:realtime_job_task/screens/add_employee_screen.dart';
 
-import '../helpers/db_helper.dart';
-import '../models/employee.dart';
+import '../../helpers/db_helper.dart';
+import '../../models/employee.dart';
 
 @immutable
 class CurrEmployeeWidget extends StatelessWidget {

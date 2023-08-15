@@ -4,7 +4,7 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
 
 import '../models/employee.dart';
-import '../widgets/curr_employee_widget.dart';
+import '../assets/images/curr_employee_widget.dart';
 import '../widgets/prev_employee_widget.dart';
 
 class EmployeeListScreen extends StatelessWidget {
