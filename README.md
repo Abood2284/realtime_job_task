@@ -13,9 +13,12 @@ This is Technical round task by Realtime Innovations
 
 
 # App Images
-<img src="https://github.com/Abood2284/realtime_job_task/blob/main/lib/assets/images/1.png" width="200" height="400" />
-<img src="https://github.com/Abood2284/realtime_job_task/blob/main/lib/assets/images/1.png" width="200" height="400" />
-<img src="https://github.com/Abood2284/realtime_job_task/blob/main/lib/assets/images/1.png" width="200" height="400" />
-<img src="https://github.com/Abood2284/realtime_job_task/blob/main/lib/assets/images/1.png" width="200" height="400" />
+<img src="https://github.com/Abood2284/realtime_job_task/blob/main/lib/assets/images/1.png" width="200" height="400" /> <img src="https://github.com/Abood2284/realtime_job_task/blob/main/lib/assets/images/2.png" width="200" height="400" />
+
+<img src="https://github.com/Abood2284/realtime_job_task/blob/main/lib/assets/images/3.png" width="200" height="400" /> <img src="https://github.com/Abood2284/realtime_job_task/blob/main/lib/assets/images/4.png" width="200" height="400" />
+
+<img src="https://github.com/Abood2284/realtime_job_task/blob/main/lib/assets/images/5.png" width="200" height="400" /> <img src="https://github.com/Abood2284/realtime_job_task/blob/main/lib/assets/images/6.png" width="200" height="400" />
+
+<img src="https://github.com/Abood2284/realtime_job_task/blob/main/lib/assets/images/7.png" width="200" height="400" /> <img src="https://github.com/Abood2284/realtime_job_task/blob/main/lib/assets/images/8.png" width="200" height="400" />
 
 
